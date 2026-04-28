@@ -60,7 +60,7 @@ const AboutMe = () => {
               Code <span className="text-indigo-600">.</span> Create{" "}
               <span className="text-indigo-600">.</span> Innovate
             </p>
-            <div className="w-[2px] h-12 bg-violet-500"></div>
+            <div className="w-0.2 h-12 bg-violet-500"></div>
           </div>
         </header>
         <div>

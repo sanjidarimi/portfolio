@@ -13,13 +13,13 @@ const SocialIcon = () => {
       label: "LinkedIn",
     },
     {
-      href: "https://github.com/sanjidaRimi023",
+      href: "https://github.com/sanjidarimi",
       icon: Github,
       label: "GitHub",
     },
 
     {
-      href: "https://www.facebook.com/sanjida.rimi.123653",
+      href: "https://www.facebook.com/sanjida.rimi.023",
       icon: Facebook,
       label: "Facebook",
     },

@@ -30,8 +30,8 @@
     "Vercel"
   ],
   "liveLink": "https://apply-mate-two.vercel.app/",
-  "clientLink": "https://github.com/sanjidaRimi023/apply_mate",
-  "serverLink": "https://github.com/sanjidaRimi023/apply_mate",
+  "clientLink": "https://github.com/sanjidarimi/apply_mate",
+  "serverLink": "https://github.com/sanjidarimi/apply_mate",
   "description": "Its helps users organize, track, and manage their job and internship applications efficiently. Keep all your applications in one place, set reminders, and stay updated with deadlines to maximize your opportunities."
 },
   {
@@ -64,8 +64,8 @@
       "React-helmet"
     ],
     "liveLink": "https://book-galaxy-610c0.web.app/",
-    "clientLink": "https://github.com/sanjidaRimi023/book-galaxy-client",
-    "serverLink": "https://github.com/sanjidaRimi023/book-galaxy-server",
+    "clientLink": "https://github.com/sanjidarimi/book-galaxy-client",
+    "serverLink": "https://github.com/sanjidarimi/book-galaxy-server",
     "description": "Book Galaxy is a modern, responsive, and feature-rich Book Management Platform built using React, Firebase Authentication, Tailwind CSS, Framer Motion, and MongoDB (via a backend API). It allows users to explore books by category, borrow and return them, manage their library, and much more."
   },
   {
@@ -102,8 +102,8 @@
       "React-Toastify"
     ],
     "liveLink": "https://daily-bulletin-96f27.web.app",
-    "clientLink": "https://github.com/sanjidaRimi023/the-dailybulletin-client",
-    "serverLink": "https://github.com/sanjidaRimi023/the-dailybulletin-server",
+    "clientLink": "https://github.com/sanjidarimi/the-dailybulletin-client",
+    "serverLink": "https://github.com/sanjidarimi/the-dailybulletin-server",
     "description": "The Daily Bulletin The Daily Bulletin is a modern, full-stack newspaper platform built with the MERN stack (MongoDB, Express.js, React.js, Node.js). It offers a seamless and interactive experience for reading, writing, and managing news articles, featuring role-based access for regular users, premium subscribers, and administrators."
   },
   {
@@ -136,8 +136,8 @@
     "CORS & environment variable protection"
   ],
     "liveLink": "https://work-lynx.firebaseapp.com",
-    "clientLink": "https://github.com/sanjidaRimi023/workLynx-client",
-    "serverLink": "https://github.com/sanjidaRimi023/worklynx-server",
+    "clientLink": "https://github.com/sanjidarimi/workLynx-client",
+    "serverLink": "https://github.com/sanjidarimi/worklynx-server",
     "description": "WorkLynx is a modern freelance task marketplace that connects clients and freelancers. Users can post tasks, browse projects, place bids, and manage their freelance listings easily. The platform offers a smooth, responsive interface built with React, Vite, Tailwind CSS, DaisyUI, and interactive libraries like Lottie and Swiper. Firebase handles secure authentication, including email/password login, Google Sign-In, and role-based access control. The backend, powered by Node.js, Express.js, and MongoDB, manages all task data with full CRUD operations and real-time bid updates. WorkLynx provides a reliable, feature-rich experience for managing freelance work efficiently."
   },
  {
@@ -168,7 +168,7 @@
     "Vercel"
   ],
   "liveLink": "https://claycrafts.vercel.app/",
-  "clientLink": "https://github.com/sanjidarimi023/claycraft",
+  "clientLink": "https://github.com/sanjidarimi/claycraft",
   "serverLink": "N/A",
   "description": "ClayCraft is a basic e-commerce type project and my first Next.js application. It uses NextAuth.js for authentication, MongoDB Atlas as the database, and Vercel for deployment. The UI is designed with TailwindCSS and enhanced with lucide-react icons. The project also supports file uploads with react-dropzone, custom dropdowns using react-select, notifications with react-hot-toast, and interactive alerts with SweetAlert2. Future plans include adding a full shopping cart system, payment gateway integration, order management, and product reviews & ratings."
 }
